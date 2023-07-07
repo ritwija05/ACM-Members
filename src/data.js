@@ -13,7 +13,13 @@ export const membersData = [
       github: "https://github.com/bdab-x",
       linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
     },
-	
+	{
+      name: "Ritwija",
+      quote: "Operations Manager of ACM-JUIT",
+      insta: "https://www.instagram.com/ritwijahuyaar/",
+      github: "https://github.com/ritwija05",
+      linkedin: "http://linkedin.com/in/ritwija-deep/",
+  }
 	  {
       name: "Ansh Agrawal",
       quote: "member",
